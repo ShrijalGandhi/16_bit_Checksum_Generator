@@ -1,0 +1,1 @@
+Generate a 16 bit checksum for the data
